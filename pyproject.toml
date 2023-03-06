@@ -16,7 +16,7 @@ pydra = "^0.20"
 ancpbids = "^0.2.1"
 
 [tool.poetry.group.dev.dependencies]
-black = "^22.8.0"
+black = ">=22.8,<24.0"
 isort = "^5.10.1"
 
 [tool.poetry.group.docs.dependencies]
